@@ -1,11 +1,11 @@
-## Hey 👋, I'm Kazi Ashikur Rahman!
-
-
-I am a **Full-Stack Developer** building modern, scalable web applications 🌐. Proficient in the React/Next.js ecosystem ⚛️, with a focus on efficient database management using Prisma ORM 🗄️. Passionate about creating clean, high-performance digital experiences 💻.
-<a href='https://www.linkedin.com/in/kazi-ashik96'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height='18px'/></a>
+## Hey 👋, I'm Kazi Ashikur Rahman!  <a href='https://www.linkedin.com/in/kazi-ashik96'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/kaziashik'><img align='left' alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height='18px'/></a>
 <a href='https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en'><img alt="google scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height='18px'/></a>
 <br>
+
+
+I am a **Full-Stack Developer** building modern, scalable web applications 🌐. Proficient in the React/Next.js ecosystem ⚛️, with a focus on efficient database management using Prisma ORM 🗄️. Passionate about creating clean, high-performance digital experiences 💻.
+</br>
 ### 🔨Things I code with:
 <br>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </a>
