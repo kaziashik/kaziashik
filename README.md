@@ -21,7 +21,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 ### 🔨 Things I Code With:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/kaziashik/kaziashik/main/assets/tech-stack-animated.svg" alt="tech stack" />
+<img src="https://raw.githubusercontent.com/kaziashik/kaziashik/main/tech-stack-animated.svg" alt="tech stack" />
 </p>
 <br>
 
