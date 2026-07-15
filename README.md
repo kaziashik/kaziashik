@@ -25,22 +25,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 </p>
 <br>
 
-### 📊 Github Stats
 
-<p align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=kaziashik&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaziashik&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br>
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
-<br>
 
 ### 🛠️ My Projects
 
@@ -49,6 +34,23 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 | **Dragon News** | A React + Firebase news web app for browsing and reading breaking news articles. | [Live](https://dragon-news-breaking-c1b5b.web.app/) · [Code](https://github.com/kaziashik/dragon-news-react-firebase) |
 | **Smart Deals** | A frontend deals/e-commerce web app for browsing and comparing product offers. | [Live](https://smart-deals-b1e40.web.app/) · [Code](https://github.com/kaziashik/smart-deals-frontend) |
 | **Hero Apps Server** | Backend/API server for an app-store style platform, handling app listings and data. | [Code](https://github.com/kaziashik/hero-apps-server) |
+
+<br>
+<!-- ### 📊 Github Stats
+
+<p align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kaziashik&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaziashik&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<br> -->
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
 
 <br>
 
