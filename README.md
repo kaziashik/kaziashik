@@ -1,31 +1,9 @@
-## Hey 👋, I'm Kazi Ashikur Rahman!  <a href='https://www.linkedin.com/in/kazi-ashik96'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/kaziashik'><img align='left' alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height='18px'/></a>
-<a href='https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en'><img alt="google scholar" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height='18px'/></a>
-<br>
-
+## Hey 👋, I'm Kazi Ashikur Rahman! &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-ashik96) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaziashik) [![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
 
 I am a **Full-Stack Developer** building modern, scalable web applications 🌐. Proficient in the React/Next.js ecosystem ⚛️, with a focus on efficient database management using Prisma ORM 🗄️. Passionate about creating clean, high-performance digital experiences 💻.
-</br>
-### 🔨Things I code with:
-<br>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </a>
-<a href="https://www.prisma.io/" target="_blank"> <img align="left" alt="Prisma" height="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="TailwindCSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
 
-<br>
-<br/>
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
-<br/>
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
@@ -38,7 +16,27 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 - 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
 
+<br clear="right"/>
 
+### 🔨 Things I Code With:
+
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://www.prisma.io/" target="_blank"> <img align="left" alt="Prisma" height="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="TailwindCSS" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img align="left" alt="Node.js" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 0 12px 12px 0;"/> </a>
+</p>
+
+<br clear="left"/>
 <br>
 
 ### 📊 Github Stats
@@ -57,8 +55,6 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 </p>
 
 <br>
-
-
 
 ---
 <p align="center"><i>⭐ From Kazi Ashikur Rahman</i></p>
