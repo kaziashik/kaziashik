@@ -36,14 +36,14 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 | **Hero Apps Server** | Backend/API server for an app-store style platform, handling app listings and data. | [Code](https://github.com/kaziashik/hero-apps-server) |
 
 <br>
-<!-- ### 📊 Github Stats
+### 📊 Github Stats
 
 <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=kaziashik&show_icons=true&theme=radical&hide_border=true" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaziashik&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<br> -->
+<br>
 
 ### 📈 Contribution Graph
 
