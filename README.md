@@ -4,7 +4,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 
-## 🧐 More About Me:
+### 🧐 More About Me:
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
 - 💼 &nbsp; I previously worked as a **Frontend Software Developer** at AppPay Sdn Bhd
@@ -18,7 +18,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <br clear="right"/>
 
-## 🔨 Things I Code With:
+### 🔨 Things I Code With:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/kaziashik/kaziashik/main/tech-stack-animated.svg" alt="tech stack" />
