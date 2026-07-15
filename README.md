@@ -5,8 +5,7 @@
 
 
 I am a **Full-Stack Developer** building modern, scalable web applications 🌐. Proficient in the React/Next.js ecosystem ⚛️, with a focus on efficient database management using Prisma ORM 🗄️. Passionate about creating clean, high-performance digital experiences 💻.
-<br/>
-<br/>
+
 
 <br>
 
@@ -26,9 +25,10 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
 
 <br>
+<br/>
 
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
-
+<br/>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
