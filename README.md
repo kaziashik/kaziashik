@@ -51,6 +51,14 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <br>
 
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+<br>
+
 ### 💼 Experience
 
 **Frontend Software Developer** · AppPay Sdn Bhd — *Kuala Lumpur, Malaysia* &nbsp; `Jan 2023 – Nov 2023`
