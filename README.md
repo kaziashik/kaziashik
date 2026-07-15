@@ -56,5 +56,15 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <br>
 
+### 🛠️ My Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Dragon News** | A React + Firebase news web app for browsing and reading breaking news articles. | [Live](https://dragon-news-breaking-c1b5b.web.app/) · [Code](https://github.com/kaziashik/dragon-news-react-firebase) |
+| **Smart Deals** | A frontend deals/e-commerce web app for browsing and comparing product offers. | [Live](https://smart-deals-b1e40.web.app/) · [Code](https://github.com/kaziashik/smart-deals-frontend) |
+| **Hero Apps Server** | Backend/API server for an app-store style platform, handling app listings and data. | [Code](https://github.com/kaziashik/hero-apps-server) |
+
+<br>
+
 ---
 <p align="center"><i>⭐ From Kazi Ashikur Rahman</i></p>
