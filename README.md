@@ -16,7 +16,9 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 - 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
 <br clear="right"/>
+
 ### 🔨 Things I Code With:
+<br>
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 0 12px 12px 0;"/> </a>
