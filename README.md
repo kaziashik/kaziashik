@@ -8,20 +8,6 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 <br/>
 <br/>
 
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
-- 💼 &nbsp; I previously worked as a **Frontend Software Developer** at AppPay Sdn Bhd
-- 🌱 &nbsp; I'm currently exploring more of the **Next.js / Prisma / PostgreSQL** stack
-- 🎓 &nbsp; Bachelor's Degree in Computer Systems Engineering, **Universiti Teknikal Malaysia Melaka (UTeM)**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kaziashik?tab=repositories)
-- 📝 &nbsp; Check out my research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
-- 🌐 &nbsp; Check out my [Portfolio](https://ashikportfolio-auth.web.app/)
-- 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
-
 <br>
 
 ### 🔨Things I code with:
@@ -40,6 +26,22 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
 
 <br>
+
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
+- 💼 &nbsp; I previously worked as a **Frontend Software Developer** at AppPay Sdn Bhd
+- 🌱 &nbsp; I'm currently exploring more of the **Next.js / Prisma / PostgreSQL** stack
+- 🎓 &nbsp; Bachelor's Degree in Computer Systems Engineering, **Universiti Teknikal Malaysia Melaka (UTeM)**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kaziashik?tab=repositories)
+- 📝 &nbsp; Check out my research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
+- 🌐 &nbsp; Check out my [Portfolio](https://ashikportfolio-auth.web.app/)
+- 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
+
+
 <br>
 
 ### 📊 Github Stats
