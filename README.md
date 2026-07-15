@@ -23,9 +23,8 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 <p align="left">
 <img src="https://raw.githubusercontent.com/kaziashik/kaziashik/main/tech-stack-animated.svg" alt="tech stack" />
 </p>
+
 <br>
-
-
 
 ### 🛠️ My Projects
 
@@ -36,6 +35,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 | **Hero Apps Server** | Backend/API server for an app-store style platform, handling app listings and data. | [Code](https://github.com/kaziashik/hero-apps-server) |
 
 <br>
+
 ### 📊 Github Stats
 
 <p align="center">
@@ -50,7 +50,6 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
 
 <br>
 
