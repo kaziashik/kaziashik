@@ -24,7 +24,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨Things I code with:
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </a>
