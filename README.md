@@ -59,17 +59,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 
 <br>
 
-### 💼 Experience
 
-**Frontend Software Developer** · AppPay Sdn Bhd — *Kuala Lumpur, Malaysia* &nbsp; `Jan 2023 – Nov 2023`
-- Developed and maintained multiplatform mobile applications, including Junmart, BarBQ Plaza, Jardin Coffee, Loudspeaker, and Oasis Cafe
-- Optimized application performance and enhanced runtime efficiency
-- Managed version control updates and successfully deployed new releases
-
-<br>
-
-### 🛠️ My Projects
-<i>Add your project cards/icons here once you send me the repo names, links, and short descriptions — I'll format them just like Rahul's project row.</i>
 
 ---
 <p align="center"><i>⭐ From Kazi Ashikur Rahman</i></p>
