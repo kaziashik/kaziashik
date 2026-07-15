@@ -15,9 +15,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 - 🌐 &nbsp; Check out my [Portfolio](https://ashikportfolio-auth.web.app/)
 - 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
-
 <br clear="right"/>
-
 ### 🔨 Things I Code With:
 
 <p align="left">
@@ -37,7 +35,7 @@ I am a **Full-Stack Developer** building modern, scalable web applications 🌐.
 </p>
 
 <br clear="left"/>
-<br>
+
 
 <br>
 
