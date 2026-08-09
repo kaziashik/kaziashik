@@ -18,9 +18,9 @@
 - 🎓 &nbsp; B.Eng. Computer Systems Engineering, **UTeM**
 - 👨🏻‍💻 &nbsp; Projects on [GitHub](https://github.com/kaziashik?tab=repositories)
 - 📝 &nbsp; Research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
-- 🌐 &nbsp; Portfolio: [ashikportfolio-auth.web.app](https://ashikportfolio-auth.web.app/)
+
 - 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
-- 📫 &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
+
 
 <br clear="right"/>
 
