@@ -1,20 +1,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=39FF14&background=000000&center=false&vCenter=true&width=460&height=50&lines=Hey+%F0%9F%91%8B%2C+I%27m+Kazi+Ashik;Full-Stack+Developer+%7C+React%2FNextjs" alt="Typing SVG" /></a> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-ashik96) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaziashik) [![Google Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
 
-I am a **Full-Stack Developer** building modern, scalable web applications 🌐. Proficient in the React/Next.js ecosystem ⚛️, with a focus on efficient database management using Prisma ORM 🗄️. Passionate about creating clean, high-performance digital experiences 💻.
+**Full-Stack Developer** building modern web apps 🌐. I work with **React / Next.js** ⚛️ and backends using **Node.js, Prisma ORM**, and PostgreSQL/MongoDB 🗄️. Focused on clean UI and reliable performance 💻.
 
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 
 ###  More About Me:
 
-- 🔭 &nbsp; I'm a **Full-Stack Developer** based in Kuala Lumpur, Malaysia
-- 💼 &nbsp; I previously worked as a **Frontend Software Developer** at AppPay Sdn Bhd
-- 🌱 &nbsp; I'm currently exploring more of the **Next.js / Prisma / PostgreSQL** stack
-- 🎓 &nbsp; Bachelor's Degree in Computer Systems Engineering, **Universiti Teknikal Malaysia Melaka (UTeM)**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kaziashik?tab=repositories)
-- 📝 &nbsp; Check out my research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
-- 🌐 &nbsp; Check out my [Portfolio](https://ashikportfolio-auth.web.app/)
+- 🔭 &nbsp; **Full-Stack Developer** based in Kuala Lumpur, Malaysia
+- 💼 &nbsp; Former **Frontend Software Developer** at AppPay Sdn Bhd
+- 🌱 &nbsp; Building with **Next.js, Node.js, Prisma, and PostgreSQL**
+- 🎓 &nbsp; B.Eng. Computer Systems Engineering, **UTeM**
+- 👨🏻‍💻 &nbsp; Projects on [GitHub](https://github.com/kaziashik?tab=repositories)
+- 📝 &nbsp; Research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
+- 🌐 &nbsp; Portfolio: [ashikportfolio-auth.web.app](https://ashikportfolio-auth.web.app/)
 - 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
+- 📫 &nbsp; Connect on [LinkedIn](https://www.linkedin.com/in/kazi-ashik96)
 
 <br clear="right"/>
 
