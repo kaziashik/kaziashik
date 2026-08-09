@@ -8,8 +8,9 @@
 
 <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- **Full-Stack Developer** building modern web apps 🌐
+- **MERN Stack Developer** building modern web apps 🌐
 - Working with **React / Next.js** ⚛️ and backends using **Node.js, Prisma ORM**, and PostgreSQL/MongoDB 🗄️
+- Deploying with **Docker, Vercel, Firebase**, and similar cloud tools 🚀
 - Focused on clean UI and reliable performance 💻
 
 <br clear="right" />
