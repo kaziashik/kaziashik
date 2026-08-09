@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=39FF14&background=000000&center=false&vCenter=true&width=460&height=50&lines=Hey+%F0%9F%91%8B%2C+I%27m+Kazi+Ashik;Full-Stack+Developer+%7C+React%2FNextjs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=39FF14&background=000000&center=false&vCenter=true&width=420&height=50&repeat=false&lines=Hey+%F0%9F%91%8B%2C+I%27m+Kazi+Ashik" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://www.linkedin.com/in/kazi-ashik96"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
