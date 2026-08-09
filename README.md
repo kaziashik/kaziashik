@@ -47,7 +47,15 @@
 
 <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=kaziashik&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaziashik&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<br>
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 <br>
