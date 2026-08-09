@@ -10,16 +10,7 @@
 
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 
-###  More About Me:
 
-- 🔭 &nbsp; **Full-Stack Developer** based in Kuala Lumpur, Malaysia
-- 💼 &nbsp; Former **Frontend Software Developer** at AppPay Sdn Bhd
-- 🌱 &nbsp; Building with **Next.js, Node.js, Prisma, and PostgreSQL**
-- 🎓 &nbsp; B.Eng. Computer Systems Engineering, **UTeM**
-- 👨🏻‍💻 &nbsp; Projects on [GitHub](https://github.com/kaziashik?tab=repositories)
-- 📝 &nbsp; Research on [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
-
-- 💬 &nbsp; Ask me about React, Next.js, Node.js, Prisma, and PostgreSQL
 
 
 <br clear="right"/>
