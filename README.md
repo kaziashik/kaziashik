@@ -6,12 +6,12 @@
   <a href="https://ashikportfolio-auth.web.app/"><img src="https://img.shields.io/badge/-Portfolio-E11D48?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- **MERN Stack Developer** building modern web apps 🌐
-- Working with **React / Next.js** ⚛️ and backends using **Node.js, Prisma ORM**, and PostgreSQL/MongoDB 🗄️
-- Deploying with **Docker, Vercel, Firebase**, and similar cloud tools 🚀
-- Focused on clean UI and reliable performance 💻
+- 🌐 &nbsp;**MERN Stack Developer** building modern web apps
+- ⚛️ &nbsp;Working with **React / Next.js** and backends using **Node.js, Prisma ORM**, and PostgreSQL/MongoDB
+- 🚀 &nbsp;Deploying with **Docker, Vercel, Firebase**, and similar cloud tools
+- 💻 &nbsp;Focused on clean UI and reliable performance
 
 <br clear="right" />
 
