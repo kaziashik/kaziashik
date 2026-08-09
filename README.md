@@ -5,7 +5,7 @@
 **MERN / Full-Stack Developer** based in Kuala Lumpur, Malaysia  
 I build modern, scalable web apps end-to-end — UI, APIs, databases, auth, and payments.
 
-[Portfolio](https://ashikportfolio-auth.web.app/) · [LinkedIn](https://www.linkedin.com/in/kazi-ashik96) · [Email](mailto:kaziashik96@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
+[Portfolio](https://ashikportfolio-auth.web.app/) · [LinkedIn](https://www.linkedin.com/in/kazi-ashik96) · [Google Scholar](https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en)
 
 </div>
 
