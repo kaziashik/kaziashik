@@ -2,7 +2,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/kazi-ashik96"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/kaziashik"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=NRWO6HAAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar" /></a>&nbsp;
 <a href="https://ashikportfolio-auth.web.app/"><img src="https://img.shields.io/badge/-Portfolio-E11D48?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
