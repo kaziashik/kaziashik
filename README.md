@@ -8,10 +8,11 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🌐 &nbsp;**MERN Stack Developer** building modern web apps
+- 🌐 &nbsp;**Full-Stack Developer** building modern web apps with the MERN/Next.js stack
 - ⚛️ &nbsp;Working with **React / Next.js** and backends using **Node.js, Prisma ORM**, and PostgreSQL/MongoDB
+- 🧠 &nbsp;Building and deploying **AI/ML-powered applications** — deep learning models (PyTorch, CNN, ResNet-50, TensorFlow Lite) shipped as real FastAPI/Android apps
 - 🚀 &nbsp;Deploying with **Docker, Vercel, Firebase**, and similar cloud tools
-- 💻 &nbsp;Focused on clean UI and reliable performance
+- 💻 &nbsp;Focused on clean UI, reliable performance, and turning research models into usable products
 
 <br clear="right" />
 
