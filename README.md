@@ -30,18 +30,19 @@
 | **ZapShift** | Door-to-door parcel delivery platform with booking, rider flow, OTP delivery, and Stripe (React, Express, MongoDB, Firebase Auth). | [Live](https://zap-shift-737f5.web.app/) · [Code](https://github.com/kaziashik/zap-shift) |
 | **GearUp** | Sports & outdoor gear rental marketplace with provider dashboards, date-based rentals, and Stripe (Next.js, Express, Prisma, PostgreSQL). | [Live](https://gearupfronted.vercel.app) · [Code](https://github.com/kaziashik/GearUp) |
 
-### 📊 Github Stats
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kaziashik&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=kaziashik&layout=compact&theme=radical&hide_border=true" />
-</p>
+### GitHub Contributions:
+![Snake Grid](https://raw.githubusercontent.com/kaziashik/kaziashik/output/github-contribution-grid-snake.svg)
 
-### 📈 Contribution Graph
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaziashik&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziashik&theme=swift&hide_border=true&layout=compact" /></a> |
+| ------------- | ------------- |
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaziashik&theme=react-dark&hide_border=true" />
-</p>
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=kaziashik&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=kaziashik&theme=swift&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
