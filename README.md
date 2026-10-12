@@ -43,6 +43,9 @@
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=kaziashik&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=kaziashik&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+### GitHub Contributions:
+![Snake Grid](https://raw.githubusercontent.com/kaziashik/kaziashik/output/github-contribution-grid-snake.svg)
 ---
 
 <p align="center"><i>⭐ From Kazi Ashikur Rahman</i></p>
