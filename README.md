@@ -26,7 +26,7 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **PH Healthcare** | Full-stack clinic management system with patient/doctor/admin roles, serial booking, and bKash payments (Next.js, Express, Prisma, PostgreSQL). | [Live](https://ph-healthcare-six.vercel.app) · [Code](https://github.com/kaziashik/PH-Healthcare-Management-System-Frontend) |
+| **PH Healthcare** | Full-stack clinic management system with patient/doctor/admin roles, serial booking, and bKash payments (Next.js, Express, Prisma, PostgreSQL). | [Live](https://ph-healthcare-six.vercel.app) · [Frontend](https://github.com/kaziashik/PH-Healthcare-Management-System-Frontend) · [Backend](https://github.com/kaziashik/PH-Healthcare-Backend) |
 | **RentNest** | Full-stack rental marketplace with tenant/landlord/admin roles, request workflow, and Stripe payments (Next.js, Express, Prisma, PostgreSQL). | [Live](https://rentnest-frontend-theta.vercel.app/) · [Code](https://github.com/kaziashik/rentnest_frontend-) |
 | **ZapShift** | Door-to-door parcel delivery platform with booking, rider flow, OTP delivery, and Stripe (React, Express, MongoDB, Firebase Auth). | [Live](https://zap-shift-737f5.web.app/) · [Code](https://github.com/kaziashik/zap-shift) |
 | **GearUp** | Sports & outdoor gear rental marketplace with provider dashboards, date-based rentals, and Stripe (Next.js, Express, Prisma, PostgreSQL). | [Live](https://gearupfronted.vercel.app) · [Code](https://github.com/kaziashik/GearUp) |
